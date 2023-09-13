@@ -11,6 +11,10 @@ Spring Cloud Eureka Server를 이용한 프로젝트입니다. 이 프로젝트�
 - Java 17
 - Spring Cloud
 
+## validation
+
+<img width="1440" alt="스크린샷 2023-09-13 오전 11 13 12" src="https://github.com/wooriFisa-Final-Project-F4/product-service/assets/109801772/219200f2-7c98-45ea-8849-4da7ff12bed0">
+
 ## Project Architecture
 
 <img width="1618" alt="Architect (2) 복사본" src="https://github.com/wooriFisa-Final-Project-F4/.github/assets/109801772/27ac2b1d-8624-424f-aefb-4ceda4484b63">
